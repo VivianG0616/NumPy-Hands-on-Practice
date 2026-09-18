@@ -81,6 +81,11 @@ This project used NumPy to analyze temperature data from Lagos, Abuja, and Ibada
 
 # Snippets from the Mini Project
 
+<img width="990" height="737" alt="Image" src="https://github.com/user-attachments/assets/4dc61f84-c263-49e1-8a5f-788d6d55d76a" />
+
+
+<img width="990" height="766" alt="Image" src="https://github.com/user-attachments/assets/f85a9042-4b16-4663-8790-d7808f09f8cf" />
+
 <img width="950" height="734" alt="Image" src="https://github.com/user-attachments/assets/9dbc8698-0a9b-4dbe-a994-b54a1b0681e0" />
 
 
@@ -107,7 +112,7 @@ I predicted the results before running the code and compared my predictions with
 - Python
 - NumPy
 - Jupyter Notebook
-- GitHub
+
 
 ## Learning Context
 
