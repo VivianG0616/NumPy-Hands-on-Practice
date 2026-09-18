@@ -1,5 +1,5 @@
 # NumPy-Hands-on-Practice
-Beginner NumPy practice covering arrays, dimensions, data types, element-wise operations and a weather temperature analysis mini-project.
+Beginner NumPy practice covering arrays, dimensions, data types, element-wise operations and a weather temperature analysis mini-project. NumPy stands for Numerical Python that is primarily designed for efficient numerical computing. Python gives the programming language while NumPy gives the powerful tools for working with numbers and array. NumPy is impoted as "import numpy as np" and it is built around a data structure called ndarray.
 
 
 ## Overview
