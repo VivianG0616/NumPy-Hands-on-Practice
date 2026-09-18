@@ -79,6 +79,18 @@ Raw temperature readings from three locations are converted into NumPy arrays an
 
 This project used NumPy to analyze temperature data from Lagos, Abuja, and Ibadan. Data was converted from Python lists to NumPy arrays, inspected, and compared using element-wise addition, subtraction, and maximum operations. Lagos recorded the highest temperatures in the first half of the week; Abuja took over for the second half.
 
+# Snippets from the Mini Project
+
+<img width="950" height="734" alt="Image" src="https://github.com/user-attachments/assets/9dbc8698-0a9b-4dbe-a994-b54a1b0681e0" />
+
+
+<img width="981" height="750" alt="Image" src="https://github.com/user-attachments/assets/e2e7aef9-99c0-4743-89bf-5b4e1e6fb43a" />
+
+
+<img width="979" height="731" alt="Image" src="https://github.com/user-attachments/assets/1ba21534-0cb2-4c48-9041-01733cfa86df" />
+
+
+<img width="979" height="747" alt="Image" src="https://github.com/user-attachments/assets/7d5afed1-5966-44d6-8e6f-534d27201d4f" />
 
 ## Bonus Challenge
 
